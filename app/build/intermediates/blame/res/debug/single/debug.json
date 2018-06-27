@@ -840,6 +840,10 @@
         "source": "C:\\Users\\Rohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b61c40993b3309cff4fce781cbd1e7de\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_background.xml.flat",
+        "source": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
         "merged": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
         "source": "C:\\Users\\Rohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b61c40993b3309cff4fce781cbd1e7de\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
@@ -1636,6 +1640,10 @@
         "source": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\src\\main\\res\\drawable\\ic_messaging.png"
     },
     {
+        "merged": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\res\\merged\\debug\\font_rubik_light.ttf.flat",
+        "source": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\src\\main\\res\\font\\rubik_light.ttf"
+    },
+    {
         "merged": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
         "source": "C:\\Users\\Rohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b61c40993b3309cff4fce781cbd1e7de\\res\\layout\\abc_alert_dialog_material.xml"
     },
@@ -2026,6 +2034,10 @@
     {
         "merged": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\Rohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b61c40993b3309cff4fce781cbd1e7de\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_background.xml.flat",
+        "source": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\src\\main\\res\\drawable\\btn_background.xml"
     },
     {
         "merged": "E:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
