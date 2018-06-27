@@ -18,6 +18,7 @@
         android:background="@drawable/circle_accent"
         android:gravity="center"
         android:maxEms="1"
+        android:fontFamily="@font/rubik_light"
         android:textAllCaps="true"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="@color/grey_100"
@@ -35,6 +36,7 @@
         android:layout_marginEnd="@dimen/margin_huge"
         android:background="@drawable/chat_rounded_rect_bg"
         android:padding="@dimen/padding_small"
+        android:fontFamily="@font/rubik_light"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textColor="@color/grey_100"
         tools:text="Hello mate ! \ntest" />

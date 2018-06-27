@@ -73,8 +73,8 @@ public class ChatFragment extends Fragment implements ChatContract.View, TextVie
     }
 
     private void bindViews(View view) {
-        mRecyclerViewChat = (RecyclerView) view.findViewById(R.id.recycler_view_chat);
-        mETxtMessage = (EditText) view.findViewById(R.id.edit_text_message);
+        mRecyclerViewChat = view.findViewById(R.id.recycler_view_chat);
+        mETxtMessage = view.findViewById(R.id.edit_text_message);
     }
 
     @Override
@@ -146,7 +146,7 @@ public class ChatFragment extends Fragment implements ChatContract.View, TextVie
 
     @Override
     public void onGetMessagesFailure(String message) {
-        Toast.makeText(getActivity(), message, Toast.LENGTH_SHORT).show();
+//        Toast.makeText(getActivity(), message, Toast.LENGTH_SHORT).show();
     }
 
     @Subscribe
