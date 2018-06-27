@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 27 13:20:11 IST 2018
+0.baseType=DIRECTORY
+0.base=E\:\\project(6-9-17)\\Architecture learning\\AndroidFirbaseChat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
