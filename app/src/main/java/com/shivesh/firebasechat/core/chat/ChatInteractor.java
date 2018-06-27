@@ -16,7 +16,6 @@ import com.google.firebase.database.ValueEventListener;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 9/2/2017 , 10:08 PM
  * Project: Chat Application Demo
  */
 

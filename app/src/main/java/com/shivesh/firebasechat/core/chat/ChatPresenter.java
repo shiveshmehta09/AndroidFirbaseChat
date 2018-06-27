@@ -6,7 +6,6 @@ import com.shivesh.firebasechat.models.Chat;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 9/2/2017 , 10:05 PM
  * Project: Chat Application Demo
  */
 

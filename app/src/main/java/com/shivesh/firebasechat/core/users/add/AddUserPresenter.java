@@ -6,7 +6,6 @@ import com.google.firebase.auth.FirebaseUser;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 14/2/2017 , 09:10 AM
  * Project: Chat Application Demo
  */
 

@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 15/2/2017 , 11:10 AM
  * Project: Chat Application Demo
  */
 

@@ -2,7 +2,6 @@ package com.shivesh.firebasechat.core.logout;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 10/2/2017 , 01:10 PM
  * Project: Chat Application Demo
  */
 

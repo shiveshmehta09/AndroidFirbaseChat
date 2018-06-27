@@ -2,7 +2,6 @@ package com.shivesh.firebasechat.models;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 17/2/2017 , 03:10 PM
  * Project: Chat Application Demo
  */
 

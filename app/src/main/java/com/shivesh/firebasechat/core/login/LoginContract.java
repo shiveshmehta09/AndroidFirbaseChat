@@ -4,7 +4,6 @@ import android.app.Activity;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 10/2/2017 , 11:06 AM
  * Project: Chat Application Demo
  */
 

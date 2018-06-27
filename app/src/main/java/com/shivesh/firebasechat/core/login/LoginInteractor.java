@@ -16,7 +16,6 @@ import static android.content.ContentValues.TAG;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 10/2/2017 , 11:10 AM
  * Project: Chat Application Demo
  */
 

@@ -17,7 +17,6 @@ import okhttp3.Response;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 16/2/2017 , 03:10 PM
  * Project: Chat Application Demo
  */
 

@@ -2,7 +2,6 @@ package com.shivesh.firebasechat.events;
 
 /**
  * Author: Shivesh Karan Mehta
- * Created on: 15/2/2017 , 09:10 PM
  * Project: Chat Application Demo
  */
 public class PushNotificationEvent {
